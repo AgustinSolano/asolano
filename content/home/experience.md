@@ -36,6 +36,13 @@ experience:
     date_start: '2019-08-01'
     description: Teaching 'Signals and Systems' and 'Medical Physics' for Bioengineering.
     
+  - title: Bioengineer
+    company: National University of Entre Rios 
+    company_url: 'http://ingenieria.uner.edu.ar/'
+    location: Oro Verde, Entre Rios, Argentina
+    date_end: '2015-06-19'
+    description: 
+    
 design:
   columns: '2'
 ---
