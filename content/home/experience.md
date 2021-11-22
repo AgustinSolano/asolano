@@ -28,6 +28,7 @@ experience:
     company_url: 'http://physiologyofactionlab.info/'
     location: Buenos Aires, Argentina
     date_start: '2016-02-01'
+    description: Graduate studies
 
   - title: Teacher
     company: Buenos Aires Institute of Technology 
@@ -35,13 +36,14 @@ experience:
     location: Buenos Aires, Argentina
     date_start: '2019-08-01'
     description: Teaching 'Signals and Systems' and 'Medical Physics' for Bioengineering.
-    
+
   - title: Bioengineer
     company: National University of Entre Rios 
     company_url: 'http://ingenieria.uner.edu.ar/'
     location: Oro Verde, Entre Rios, Argentina
+    date_start: '2007-01-02'
     date_end: '2015-06-19'
-    description: 
+    description: Undergraduate degree
     
 design:
   columns: '2'
