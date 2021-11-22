@@ -16,7 +16,9 @@ publication_types:
 - "3"
 publishDate: "2021-01-12T00:00:00Z"
 tags:
-- Source Themes
+- Publication
+- Sleep and Memories
+- Spindle-SO coupling
 title: Motor Learning Promotes the Coupling between Fast Spindles and Slow Oscillations Locally over the Contralateral Motor Network
 url_pdf: https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhab360/6396793?redirectedFrom=fulltext
 url_poster: ""

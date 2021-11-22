@@ -18,7 +18,9 @@ publishDate: "2021-10-28T00:00:00Z"
 slides: example
 summary: 
 tags:
-- Source Themes
+- Publication
+- Sleep and Memories
+- Spindle's trains
 title: Visuomotor adaptation modulates the clustering of sleep spindles into trains
 url_code: '#'
 url_dataset: '#'
