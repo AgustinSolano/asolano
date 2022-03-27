@@ -13,7 +13,7 @@ projects:
 publication: "*Cerebral Cortex*"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-01-12T00:00:00Z"
 tags:
 - Publication

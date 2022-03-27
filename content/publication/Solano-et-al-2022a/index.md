@@ -7,13 +7,13 @@ authors:
 - Valeria Della Maggiore
 date: "2022-03-16T00:00:00Z"
 doi: "https://doi.org/10.3389/fnins.2022.803387"
-featured: false
+featured: true
 projects:
 - internal-project
 publication: "*Frontiers in Neuroscience*"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-03-16T00:00:00Z"
 slides: example
 summary: 
